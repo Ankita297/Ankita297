@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ankita Pal</h1>
-<h3 align="center">-I'm Second Year Student at UIETH, Panjab University</h3>
+
+<h1 align="center"> Hi, I'm Ankita! 👋</h1>
 
 
-- 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **MERN**
+## 🚀 _About Me_
+#### I'm a frontend web developer, an open source enthusiast . 
 
-- 📫 How to reach me **My linkedin Profile https://www.linkedin.com/in/ankita-pal-aa5493204/**
+  <h1 align="center"> 
 
-- 😄 Pronouns: [she/her](she/her)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-pal-aa5493204/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ankita50663278)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitapal0987@gmail.com)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankita297)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ankita_12345/)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ankitapal7777)
+[![codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ankitapal12345)
 
+</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👨‍💻  _Tech Stack I am Familiar With_ :
+  <h1 align="center"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita297&label=Profile%20views&color=0e75b6&style=flat" alt="ankita297" /> </p>
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)]()
+[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita297" alt="ankita297" /></a> </p>
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita297&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ankita297" /></p>
+##  😊  _Github Status_
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankita297&show_icons=true&locale=en&theme=dracula" alt="ankita297" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita297&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankita297" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita297&theme=dracula" alt="ankita297" /></p>
+  ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita297&show_icons=true&theme=dark)
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankita297&theme=dark)](https://git.io/streak-stats)
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Ankita297&title=Followers,Stars,Commit,PR,Issue,Repo&row=1&column=6&theme=onedark" />
+</p>
 
