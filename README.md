@@ -1,17 +1,91 @@
-## 💫 Hi there , I am Ankita
-Front-End Engineer | JavaScript | TypeScript | React.js |  | Next.js<br><br>I'm a Front-End Engineer with a strong foundation in JavaScript, TypeScript, and React.js, currently working as an SDE-1 at Orange Health Labs. I specialize in building scalable, user-centric web applications and enjoy collaborating with cross-functional teams to deliver impactful products.<br>
+<div align="center">
+  <img src="./header.svg" alt="Ankita — Software Engineer 2, booking · auth · finance · micro-frontends" width="100%" />
+  <br/>
+  <a href="https://www.linkedin.com/in/ankita0930/">LinkedIn</a>
+  ·
+  <a href="https://x.com/ankita0930">X</a>
+  ·
+  <a href="https://codepen.io/Ankita09301">CodePen</a>
+  ·
+  <a href="mailto:ankitapal7777@gmail.com">Email</a>
+</div>
 
+<br/>
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankita0930) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ankita0930) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Ankita09301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankita19309@gmail.com) 
+I don’t collect Hello World repos. I ship the screens people actually get stuck on: **pick a slot, pay, prove who you are, download a report when the network is bad.**
 
-### 💻 Languages and Tools:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankita297&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankita297&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita297&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+<tr>
+<td width="58%" valign="top">
 
+### Currently in production
+At **Orange Health Labs** I own TypeScript / React / Next.js for:
 
+- **Clinic & partner booking** — slots, cart, home vs clinic, payments, tracking  
+- **Orange Auth** — phone/email OTP as a module other apps embed  
+- **Group / corporate health** — SSO, family members, who-pays, eligibility  
+- **Partner finance** — invoices, credit, RBAC, fewer spreadsheet nights  
+- **Documents** — micro-frontend + Service Workers for offline capture  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+<td width="42%" valign="top">
+
+### How I work
+```ts
+type Ankita = {
+  title: "Software Engineer 2"
+  city: "Bengaluru"
+  bias: "reusable over clever"
+  review: "I will ask why this state lives here"
+  never: "invented metrics in a resume"
+}
+```
+
+**Also true:** I review code, mentor, and have managed interns. I will fight a four-hour CSV if a tool can eat it.
+
+</td>
+</tr>
+</table>
+
+### A flow I keep rebuilding (on purpose)
+
+```mermaid
+flowchart LR
+  A[Landing] --> B[Auth / OTP]
+  B --> C[Eligibility]
+  C --> D[Slot + cart]
+  D --> E[Pay or partner-bill]
+  E --> F[Track + documents]
+```
+
+If your product has this skeleton, I have already cut myself on the edge cases: walk-ins, unpaid orders, expired camps, the photo that must be geo-tagged.
+
+<details>
+<summary><b>Stack I actually reach for</b></summary>
+<br/>
+
+| Layer | Tools |
+| --- | --- |
+| Language | TypeScript, JavaScript |
+| UI | React, Next.js, HTML, CSS, Sass, MUI |
+| State | Redux / Persist, Context |
+| Product guts | REST, OTP, SSO, RBAC, webhooks, Service Workers |
+| Proof | Mixpanel, CleverTap, Grafana, Postman, Figma |
+
+</details>
+
+<details>
+<summary><b>Before this lab</b></summary>
+<br/>
+
+**Netix.ai** — React + REST across asset / user / device admin; Grafana as a real dashboard, not a screenshot.  
+**AppyHigh · Phot.ai** — Figma → production React. Product Hunt *Product of the Day/Week*. Performance score **95** from lazy load + render work, not from a blog title.
+
+</details>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ankita297&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0e1412&title_color=e8a87c&icon_color=2a9d8f&text_color=d5ddd8" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita297&layout=compact&hide_border=true&bg_color=0e1412&title_color=e8a87c&text_color=d5ddd8" alt="Top languages" />
+</p>
+
+<p align="center"><i>Public graph ≠ private product. Most of the interesting code is behind a VPN. Pins will catch up.</i></p>
