@@ -7,11 +7,6 @@ I build and own user-facing web products: booking and payments, shared auth, rol
 
 [LinkedIn](https://www.linkedin.com/in/ankita0930/) · [Email](mailto:ankitapal7777@gmail.com)
 
-## Now
-
-At Orange Health Labs I work on TypeScript, React, and Next.js for clinic/partner booking (slots, cart, payments, order tracking), a shared OTP auth module used across products, group/corporate health booking, partner finance/invoicing with RBAC, and a document micro-frontend with offline capture (Service Workers).
-
-Before that: React platforms and Grafana at Netix.ai; Phot.ai at AppyHigh (Product Hunt Product of the Day/Week), including a 95 performance score via lazy loading and render work.
 
 ## Stack
 
