@@ -3,16 +3,15 @@
 **Software Engineer 2 @ Orange Health Labs** · Bengaluru  
 Frontend · TypeScript · React.js · Next.js
 
-I build and own user-facing web products: booking and payments, shared auth, role-based admin, and config-driven B2B SaaS. I care about reusable components, API integration that stays honest at the edges, and performance in real production traffic.
+I build user-facing web apps with TypeScript, React, and Next.js. I care about reusable components, clean API integration, and performance in production.
 
 [LinkedIn](https://www.linkedin.com/in/ankita0930/) · [Email](mailto:ankitapal7777@gmail.com)
 
-
 ## Stack
 
-`TypeScript` `JavaScript` `React` `Next.js` `Redux` `REST` `RBAC` `SSO/OTP` `Service Workers` `Mixpanel` `CleverTap`
+`TypeScript` `JavaScript` `React` `Next.js` `Redux` `REST` `HTML` `CSS`
 
-Also: HTML/CSS, Sass, Material UI, Git, Figma, Postman.
+Also: Sass, Material UI, Git, Figma, Postman.
 
 ## Education
 
