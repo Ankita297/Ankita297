@@ -1,18 +1,41 @@
-# Ankita
+<img src="assets/github-banner.png" alt="Ankita — software engineer" width="100%" />
 
-**Software Engineer 2 @ Orange Health Labs** · Bengaluru  
-Frontend · TypeScript · React.js · Next.js
+<br />
 
-I build user-facing web apps with TypeScript, React, and Next.js. I care about reusable components, clean API integration, and performance in production.
+### ~/about
 
-[LinkedIn](https://www.linkedin.com/in/ankita0930/) · [Email](mailto:ankitapal7777@gmail.com)
+Software Engineer II at Orange Health Labs, building the web apps doctors, partners, and internal teams actually use — auth, partner-specific flows, and order management, mostly in React, Next.js, and TypeScript.
 
-## Stack
+Three-plus years in. Lately I’m spending evenings on Go, backend design, and how AI fits into real products, and writing some of that down as I go.
 
-`TypeScript` `JavaScript` `React` `Next.js` `Redux` `REST` `HTML` `CSS`
+B.Tech, Computer Science — UIET, Panjab University.
 
-Also: Sass, Material UI, Git, Figma, Postman.
+<br />
 
-## Education
+### ~/things-I'm-building
 
-B.Tech, Computer Science and Engineering — UIET, Panjab University (2023)
+**[ApplyKit](https://github.com/Ankita297/Applykit)** — an open-source, local-first toolkit for the repetitive parts of applying. It compares a master resume to a job description (what matches, what’s missing, what to leave alone), tracks applications, and can draft a cover letter or cold email from facts already on the resume. It does not rewrite the resume. Data stays in SQLite on your machine.
+
+**[Way2Intern](https://www.way2intern.com/)** — a student-focused initiative for practical learning, mentorship, and internship preparation. Way2Ship is its hands-on, project-based learning program.
+
+<br />
+
+### ~/learning-in-public
+
+Working through this in the open, in small projects rather than a syllabus:
+
+`Go` and backend engineering · system design and distributed systems · AI engineering and agents · side projects I can actually run
+
+<br />
+
+### ~/stack
+
+**Core** — React · Next.js · JavaScript · TypeScript · HTML · CSS
+
+**Exploring** — Go · backend systems · AI engineering
+
+<br />
+
+### ~/connect
+
+[LinkedIn](https://www.linkedin.com/in/ankita0930/) · [X](https://x.com/ankita0930) · [GitHub](https://github.com/Ankita297)
