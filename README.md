@@ -1,40 +1,26 @@
 <img src="assets/github-banner.png" alt="Ankita — software engineer" width="100%" />
 
-<br />
-
 ### ~/about
 
-Software Engineer II at Orange Health Labs, building the web apps doctors, partners, and internal teams actually use — auth, partner-specific flows, and order management, mostly in React, Next.js, and TypeScript.
+Software Engineer II at Orange Health Labs. I work on production web apps for corporate and doctor-facing use: partner-specific experiences, authentication, and order management, in React, Next.js, and TypeScript.
 
-Three-plus years in. Lately I’m spending evenings on Go, backend design, and how AI fits into real products, and writing some of that down as I go.
+### ~/selected-work
 
-B.Tech, Computer Science — UIET, Panjab University.
+**[ApplyKit](https://github.com/Ankita297/Applykit)** — local-first job-search workspace. One master resume, a pasted job description, and a fit check (matches, gaps, what to leave alone), plus an application tracker and a Chrome extension that fills empty fields and never submits. Optional cover letters and cold emails use only facts already on the resume. It does not rewrite the resume. Data stays in SQLite on your machine.
 
-<br />
+**[Way2Intern](https://www.way2intern.com/)** — software-engineering internship mentorship for students: practical learning and preparation. Way2Ship is the hands-on, project-based program.
 
-### ~/things-I'm-building
+**[StreakAI](https://github.com/Ankita297/StreakAI)** — a small iPhone app for one commitment at a time. Chapters instead of an endless streak, honest check-ins, reminders, a Home Screen widget, and a named companion. Chat is on-device until you point it at an API. Habits stay on the phone.
 
-**[ApplyKit](https://github.com/Ankita297/Applykit)** — an open-source, local-first toolkit for the repetitive parts of applying. It compares a master resume to a job description (what matches, what’s missing, what to leave alone), tracks applications, and can draft a cover letter or cold email from facts already on the resume. It does not rewrite the resume. Data stays in SQLite on your machine.
+### ~/toolbox
 
-**[Way2Intern](https://www.way2intern.com/)** — a student-focused initiative for practical learning, mentorship, and internship preparation. Way2Ship is its hands-on, project-based learning program.
+**Working with** — React · Next.js · JavaScript · TypeScript · HTML · CSS
 
-<br />
+**Learning** — Go · backend systems · system design · AI engineering
 
-### ~/learning-in-public
+### ~/now
 
-Working through this in the open, in small projects rather than a syllabus:
-
-`Go` and backend engineering · system design and distributed systems · AI engineering and agents · side projects I can actually run
-
-<br />
-
-### ~/stack
-
-**Core** — React · Next.js · JavaScript · TypeScript · HTML · CSS
-
-**Exploring** — Go · backend systems · AI engineering
-
-<br />
+Go and backend engineering, system design, and AI engineering — in small projects I can run, written down as I go.
 
 ### ~/connect
 
